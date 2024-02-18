@@ -1,5 +1,4 @@
-# Hey! I'm SirNooby!
-### (you may also know me as mouse11246)
+# Hey! I'm SirNooby! (or mouse11246)
 English/Polski
 
 ## Experience:
