@@ -7,5 +7,6 @@ English/Polski
 
 ## Personal Projects:
 * Created Scratch Games
+* Developing Knowledge in Pygame
 
 ## Events:
