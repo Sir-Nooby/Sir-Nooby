@@ -8,5 +8,6 @@ English/Polski
 ## Personal Projects:
 * Created Scratch Games
 * Created Projects Using Pygame
+* Learning to Create Websites
 
 ## Events:
