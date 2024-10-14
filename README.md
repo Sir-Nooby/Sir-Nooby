@@ -7,7 +7,8 @@ English/Polski
 
 ## Personal Projects:
 * Created Scratch Games
-* Created Projects Using Pygame
+* Created Games Using Pygame
 * Learning to Create Websites
 
 ## Events:
+* Participated in the CCC
