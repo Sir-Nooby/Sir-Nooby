@@ -4,6 +4,7 @@ English/Polski
 ## Experience:
 * Python
 * Lua
+* Web3 (HTML/CSS/Javascript) [Developing Knowledge]
 
 ## Personal Projects:
 * Created Scratch Games
@@ -12,3 +13,4 @@ English/Polski
 
 ## Events:
 * Participated in the CCC
+* 1st Place at HammerHacks `24
