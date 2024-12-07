@@ -12,5 +12,5 @@ English/Polski
 * Learning to Create Websites
 
 ## Events:
-* Participated in the CCC `23 (48/75)
+* Participated in the CCC Junior `23 (48/75)
 * 1st Place at HammerHacks `24
