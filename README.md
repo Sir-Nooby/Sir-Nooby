@@ -1,10 +1,10 @@
 # Hey! I'm SirNooby! (or mouse11246)
 English/Polski
 
+I like playing and perfecting video games, competitive programming and reading.
 ## Experience:
 * Python
 * Lua
-* Web3 (HTML/CSS/Javascript) [Developing Knowledge]
 
 ## Personal Projects:
 * Created Scratch and Roblox Games
@@ -14,3 +14,7 @@ English/Polski
 ## Events:
 * Participated in the CCC Junior `23 (48/75)
 * 1st Place at HammerHacks `24
+
+## Currently Learning:
+* Web3 (HTML/CSS/Javascript) [Developing Knowledge]
+* Data Structures and Algorithms in Python
