@@ -11,7 +11,8 @@ I like playing and perfecting video games, competitive programming and reading.
 * Created Games Using Pygame
 
 ## Events:
-* Participated in the CCC Junior `23 (48/75)
+* Participated in the CCC Junior `24 (48/75)
+* Participated in the CCC Senior `25 (22/75)
 * 1st Place at HammerHacks `24
 
 ## Currently Learning:
