@@ -5,6 +5,7 @@ I like playing and perfecting video games, competitive programming and reading.
 ## Experience:
 * Python
 * Lua
+* Game Developer (CERTIFIED)
 
 ## Personal Projects:
 * Created Scratch and Roblox Games
