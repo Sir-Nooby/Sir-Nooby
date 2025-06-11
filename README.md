@@ -1,11 +1,10 @@
 # Hey! I'm SirNooby! (or mouse11246)
-English/Polski
+English/Polski/Français
 
 I like playing and perfecting video games, competitive programming and reading.
 ## Experience:
 * Python
 * Lua
-* Game Developer (CERTIFIED)
 
 ## Personal Projects:
 * Created Scratch and Roblox Games
